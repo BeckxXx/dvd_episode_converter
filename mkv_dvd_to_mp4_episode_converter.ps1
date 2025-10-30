@@ -1,4 +1,4 @@
-function Show-Menu {
+﻿function Show-Menu {
     Clear-Host
     Write-Host "================= Menü =================" 
     Write-Host "1: MKV Ordner konvertieren"
